@@ -1,0 +1,241 @@
+Script started on Sun Oct  9 15:44:57 2022
+Restored session: Sun  9 Oct 2022 15:43:48 EDT
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004hjjava c Analysis.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004hjavac Analysis.java[19Dexit               [15Djavac Analysis.java[19Dfor i in {1..10}; java Analysis;[?2004l
+
+PROGRAM STARTS TO RUN at 1665344708487
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 32
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 1703
+Time taken for getX for class PointCP2 (milliseconds): 694
+Time taken for getY for class PointCP2 (milliseconds): 941
+Time taken for getRho for class PointCP2 (milliseconds): 7
+Time taken for getTheta for class PointCP2 (milliseconds): 7
+Time taken for getDistance for class PointCP2 (milliseconds): 4401
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8737
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344727357
+Total RUNTIME: 18 seconds
+
+PROGRAM STARTS TO RUN at 1665344727520
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 27
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 1553
+Time taken for getX for class PointCP2 (milliseconds): 697
+Time taken for getY for class PointCP2 (milliseconds): 902
+Time taken for getRho for class PointCP2 (milliseconds): 8
+Time taken for getTheta for class PointCP2 (milliseconds): 7
+Time taken for getDistance for class PointCP2 (milliseconds): 4407
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8804
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344746135
+Total RUNTIME: 18 seconds
+
+PROGRAM STARTS TO RUN at 1665344746280
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 29
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 1893
+Time taken for getX for class PointCP2 (milliseconds): 681
+Time taken for getY for class PointCP2 (milliseconds): 907
+Time taken for getRho for class PointCP2 (milliseconds): 8
+Time taken for getTheta for class PointCP2 (milliseconds): 7
+Time taken for getDistance for class PointCP2 (milliseconds): 4395
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8797
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344765360
+Total RUNTIME: 19 seconds
+
+PROGRAM STARTS TO RUN at 1665344765547
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 29
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 2136
+Time taken for getX for class PointCP2 (milliseconds): 694
+Time taken for getY for class PointCP2 (milliseconds): 922
+Time taken for getRho for class PointCP2 (milliseconds): 7
+Time taken for getTheta for class PointCP2 (milliseconds): 7
+Time taken for getDistance for class PointCP2 (milliseconds): 4407
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8747
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344784700
+Total RUNTIME: 19 seconds
+
+PROGRAM STARTS TO RUN at 1665344784843
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 27
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 1628
+Time taken for getX for class PointCP2 (milliseconds): 732
+Time taken for getY for class PointCP2 (milliseconds): 906
+Time taken for getRho for class PointCP2 (milliseconds): 7
+Time taken for getTheta for class PointCP2 (milliseconds): 7
+Time taken for getDistance for class PointCP2 (milliseconds): 4402
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8738
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344803534
+Total RUNTIME: 18 seconds
+
+PROGRAM STARTS TO RUN at 1665344803697
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 30
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 1571
+Time taken for getX for class PointCP2 (milliseconds): 971
+Time taken for getY for class PointCP2 (milliseconds): 935
+Time taken for getRho for class PointCP2 (milliseconds): 8
+Time taken for getTheta for class PointCP2 (milliseconds): 7
+Time taken for getDistance for class PointCP2 (milliseconds): 4419
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8765
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344822674
+Total RUNTIME: 18 seconds
+
+PROGRAM STARTS TO RUN at 1665344822828
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 29
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 1758
+Time taken for getX for class PointCP2 (milliseconds): 655
+Time taken for getY for class PointCP2 (milliseconds): 943
+Time taken for getRho for class PointCP2 (milliseconds): 8
+Time taken for getTheta for class PointCP2 (milliseconds): 6
+Time taken for getDistance for class PointCP2 (milliseconds): 4418
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8768
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344841700
+Total RUNTIME: 18 seconds
+
+PROGRAM STARTS TO RUN at 1665344841885
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 28
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 1592
+Time taken for getX for class PointCP2 (milliseconds): 707
+Time taken for getY for class PointCP2 (milliseconds): 914
+Time taken for getRho for class PointCP2 (milliseconds): 7
+Time taken for getTheta for class PointCP2 (milliseconds): 7
+Time taken for getDistance for class PointCP2 (milliseconds): 4408
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8726
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344860518
+Total RUNTIME: 18 seconds
+
+PROGRAM STARTS TO RUN at 1665344860678
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 28
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 2138
+Time taken for getX for class PointCP2 (milliseconds): 675
+Time taken for getY for class PointCP2 (milliseconds): 900
+Time taken for getRho for class PointCP2 (milliseconds): 7
+Time taken for getTheta for class PointCP2 (milliseconds): 8
+Time taken for getDistance for class PointCP2 (milliseconds): 4421
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8733
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344879843
+Total RUNTIME: 19 seconds
+
+PROGRAM STARTS TO RUN at 1665344880014
+
+===========RUN===========
+
+START OF TEST FOR PointCP2
+
+Time taken to construct PointCP2 (milliseconds) giving Polar coordinates: 27
+Time taken to construct PointCP2 (milliseconds) giving Cartesian coordinates: 2047
+Time taken for getX for class PointCP2 (milliseconds): 779
+Time taken for getY for class PointCP2 (milliseconds): 948
+Time taken for getRho for class PointCP2 (milliseconds): 8
+Time taken for getTheta for class PointCP2 (milliseconds): 7
+Time taken for getDistance for class PointCP2 (milliseconds): 4393
+Time taken for rotatePoint for class PointCP2 (milliseconds): 8769
+
+END OF TEST FOR PointCP2
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344899202
+Total RUNTIME: 19 seconds
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Oct  9 15:48:49 2022

@@ -1,0 +1,241 @@
+Script started on Sun Oct  9 16:20:55 2022
+Restored session: Sun  9 Oct 2022 16:18:59 EDT
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004hj exitfor i in {1..10}; java Analysis;[32Djavac[17P[9C.java             [13D[?2004l
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004hjavac Analysis.java[19Dexit               [15Dfor i in {1..10}; java Analysis;[?2004l
+
+PROGRAM STARTS TO RUN at 1665346869510
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 38
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 1914
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1107
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1106
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 12
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 11
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4388
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6843
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665346887236
+Total RUNTIME: 17 seconds
+
+PROGRAM STARTS TO RUN at 1665346887398
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 29
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 1609
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1117
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1117
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 15
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 12
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4497
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6785
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665346904798
+Total RUNTIME: 17 seconds
+
+PROGRAM STARTS TO RUN at 1665346904968
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 29
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 2123
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1110
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1105
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 12
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 13
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4426
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6818
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665346922862
+Total RUNTIME: 17 seconds
+
+PROGRAM STARTS TO RUN at 1665346923037
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 28
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 1909
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1109
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1105
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 13
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 13
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4392
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6813
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665346940611
+Total RUNTIME: 17 seconds
+
+PROGRAM STARTS TO RUN at 1665346940775
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 30
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 1597
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1297
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1114
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 13
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 14
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4451
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6787
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665346958347
+Total RUNTIME: 17 seconds
+
+PROGRAM STARTS TO RUN at 1665346958499
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 27
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 2234
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1113
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1109
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 12
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 12
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4402
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6877
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665346976575
+Total RUNTIME: 18 seconds
+
+PROGRAM STARTS TO RUN at 1665346976723
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 28
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 1650
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1110
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1111
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 13
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 11
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4596
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6774
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665346994328
+Total RUNTIME: 17 seconds
+
+PROGRAM STARTS TO RUN at 1665346994468
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 30
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 2095
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1108
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1106
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 12
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 12
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4586
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 7050
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665347012682
+Total RUNTIME: 18 seconds
+
+PROGRAM STARTS TO RUN at 1665347012846
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 28
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 1651
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1119
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1127
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 14
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 12
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4423
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6855
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665347030267
+Total RUNTIME: 17 seconds
+
+PROGRAM STARTS TO RUN at 1665347030428
+
+===========RUN===========
+
+START OF TEST FOR PointCP5 with concrete class PointCP2_5
+
+Time taken to construct for PointCP5 inputting Polar (milliseconds): 28
+Time taken to construct for PointCP5 inputting Cartesian (milliseconds): 2040
+Time taken for getX for Design 5 for class PointCP2_5 (milliseconds): 1113
+Time taken for getY for Design 5 for class PointCP2_5 (milliseconds): 1111
+Time taken for getRho for Design 5 for class PointCP2_5 (milliseconds): 13
+Time taken for getTheta for Design 5 for class PointCP2_5 (milliseconds): 14
+Time taken for getDistance for Design 5 for class PointCP2_5 (milliseconds): 4401
+Time taken for rotatePoint for Design 5 for class PointCP2_5 (milliseconds): 6785
+
+END OF TEST FOR PointCP5 with concrete class PointCP2_5
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665347048203
+Total RUNTIME: 17 seconds
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Oct  9 16:25:38 2022

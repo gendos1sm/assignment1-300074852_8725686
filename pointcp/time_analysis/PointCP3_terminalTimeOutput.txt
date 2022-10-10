@@ -1,0 +1,242 @@
+Script started on Sun Oct  9 15:36:15 2022
+Restored session: Sun  9 Oct 2022 15:20:30 EDT
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004hjjavac Analysis.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004hjavac Analysis.java[19Dexit               [15Dfor i in {1..10}; java Analysis;[?2004l
+
+PROGRAM STARTS TO RUN at 1665344188143
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 33
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 3768
+Time taken for getX for class PointCP3 (milliseconds): 13
+Time taken for getY for class PointCP3 (milliseconds): 7
+Time taken for getRho for class PointCP3 (milliseconds): 19
+Time taken for getTheta for class PointCP3 (milliseconds): 213
+Time taken for getDistance for class PointCP3 (milliseconds): 10
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4678
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344199265
+Total RUNTIME: 11 seconds
+
+PROGRAM STARTS TO RUN at 1665344199432
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 27
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 4090
+Time taken for getX for class PointCP3 (milliseconds): 14
+Time taken for getY for class PointCP3 (milliseconds): 7
+Time taken for getRho for class PointCP3 (milliseconds): 19
+Time taken for getTheta for class PointCP3 (milliseconds): 213
+Time taken for getDistance for class PointCP3 (milliseconds): 13
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4668
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344210681
+Total RUNTIME: 11 seconds
+
+PROGRAM STARTS TO RUN at 1665344210840
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 28
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 4111
+Time taken for getX for class PointCP3 (milliseconds): 14
+Time taken for getY for class PointCP3 (milliseconds): 7
+Time taken for getRho for class PointCP3 (milliseconds): 7
+Time taken for getTheta for class PointCP3 (milliseconds): 240
+Time taken for getDistance for class PointCP3 (milliseconds): 13
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4655
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344222147
+Total RUNTIME: 11 seconds
+
+PROGRAM STARTS TO RUN at 1665344222318
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 29
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 3730
+Time taken for getX for class PointCP3 (milliseconds): 12
+Time taken for getY for class PointCP3 (milliseconds): 14
+Time taken for getRho for class PointCP3 (milliseconds): 13
+Time taken for getTheta for class PointCP3 (milliseconds): 217
+Time taken for getDistance for class PointCP3 (milliseconds): 12
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4609
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344233205
+Total RUNTIME: 10 seconds
+
+PROGRAM STARTS TO RUN at 1665344233347
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 28
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 3633
+Time taken for getX for class PointCP3 (milliseconds): 10
+Time taken for getY for class PointCP3 (milliseconds): 11
+Time taken for getRho for class PointCP3 (milliseconds): 7
+Time taken for getTheta for class PointCP3 (milliseconds): 218
+Time taken for getDistance for class PointCP3 (milliseconds): 12
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4608
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344244120
+Total RUNTIME: 10 seconds
+
+PROGRAM STARTS TO RUN at 1665344244270
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 28
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 4064
+Time taken for getX for class PointCP3 (milliseconds): 10
+Time taken for getY for class PointCP3 (milliseconds): 6
+Time taken for getRho for class PointCP3 (milliseconds): 14
+Time taken for getTheta for class PointCP3 (milliseconds): 212
+Time taken for getDistance for class PointCP3 (milliseconds): 9
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4608
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344255421
+Total RUNTIME: 11 seconds
+
+PROGRAM STARTS TO RUN at 1665344255585
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 28
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 3573
+Time taken for getX for class PointCP3 (milliseconds): 11
+Time taken for getY for class PointCP3 (milliseconds): 8
+Time taken for getRho for class PointCP3 (milliseconds): 10
+Time taken for getTheta for class PointCP3 (milliseconds): 216
+Time taken for getDistance for class PointCP3 (milliseconds): 15
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4596
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344266243
+Total RUNTIME: 10 seconds
+
+PROGRAM STARTS TO RUN at 1665344266413
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 41
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 4074
+Time taken for getX for class PointCP3 (milliseconds): 13
+Time taken for getY for class PointCP3 (milliseconds): 7
+Time taken for getRho for class PointCP3 (milliseconds): 9
+Time taken for getTheta for class PointCP3 (milliseconds): 209
+Time taken for getDistance for class PointCP3 (milliseconds): 41
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4601
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344277737
+Total RUNTIME: 11 seconds
+
+PROGRAM STARTS TO RUN at 1665344277893
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 28
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 3719
+Time taken for getX for class PointCP3 (milliseconds): 10
+Time taken for getY for class PointCP3 (milliseconds): 26
+Time taken for getRho for class PointCP3 (milliseconds): 7
+Time taken for getTheta for class PointCP3 (milliseconds): 218
+Time taken for getDistance for class PointCP3 (milliseconds): 11
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4617
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344288732
+Total RUNTIME: 10 seconds
+
+PROGRAM STARTS TO RUN at 1665344288876
+
+===========RUN===========
+
+START OF TEST FOR PointCP3
+
+Time taken to construct for PointCP3 inputting Cartesian (milliseconds): 27
+Time taken to construct for PointCP3 inputting Polar (milliseconds): 3602
+Time taken for getX for class PointCP3 (milliseconds): 14
+Time taken for getY for class PointCP3 (milliseconds): 7
+Time taken for getRho for class PointCP3 (milliseconds): 9
+Time taken for getTheta for class PointCP3 (milliseconds): 230
+Time taken for getDistance for class PointCP3 (milliseconds): 10
+Time taken for rotatePoint for class PointCP3 (milliseconds): 4605
+
+END OF TEST FOR PointCP3
+***
+
+=======END OF RUN========
+
+PROGRAM ENDS at 1665344299638
+Total RUNTIME: 10 seconds
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004hfor i in {1..10}; java Analysis;[32Djavac[17P[9C.java             [13D[?2004l
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MacBook-Pro.local/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MacBook-Pro pointcp % [K[?2004hjavac Analysis.java[19Dfor i in {1..10}; java Analysis;[32Djavac[17P[9C.java             [13D                j  eexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Oct  9 15:43:48 2022
