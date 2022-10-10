@@ -1,0 +1,155 @@
+Script started on Sun Oct  9 21:00:01 2022
+Restored session: Sun  9 Oct 2022 20:43:35 EDT
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): C
+Enter the value of X using a decimal point(.): 12
+Enter the value of Y using a decimal point(.): 345
+
+You entered:
+Stored as cartesian only 12.0,345.0)
+Polar [345.20863256876993,88.00790642703356]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [345.20863256876993,88.00790642703356]
+Cartesian conversion (11.999999999999991,345.0)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): 446
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): 765
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): P C
+Enter the value of X using a decimal point(.): 345
+Enter the value of Y using a decimal point(.): 25
+
+You entered:
+Stored as cartesian only 345.0,25.0)
+Polar [345.90461112855957,4.1446237411042945]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [345.90461112855957,4.1446237411042945]
+Cartesian conversion (345.0,25.000000000000004)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): C
+Enter the value of X using a decimal point(.): 43
+Enter the value of Y using a decimal point(.): 08
+
+You entered:
+Stored as cartesian only 43.0,8.0)
+Polar [43.73785545725808,10.53918372862823]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [43.73785545725808,10.53918372862823]
+Cartesian conversion (43.0,8.000000000000002)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): C
+Enter the value of X using a decimal point(.): 555
+Enter the value of Y using a decimal point(.): 8889
+
+You entered:
+Stored as cartesian only 555.0,8889.0)
+Polar [8906.309336644445,86.42727723465768]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [8906.309336644445,86.42727723465768]
+Cartesian conversion (554.9999999999983,8889.0)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): P
+Enter the value of Rho using a decimal point(.): 56
+Enter the value of Theta using a decimal point(.): 33
+
+You entered:
+Stored as cartesian only 46.96555180494374,30.49978596084151)
+Polar [55.99999999999999,33.0]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [55.99999999999999,33.0]
+Cartesian conversion (46.96555180494374,30.499785960841507)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): P
+Enter the value of Rho using a decimal point(.): 254
+Enter the value of Theta using a decimal point(.): 60
+
+You entered:
+Stored as cartesian only 127.00000000000003,219.9704525612474)
+Polar [254.00000000000003,59.99999999999999]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [254.00000000000003,59.99999999999999]
+Cartesian conversion (127.00000000000004,219.97045256124744)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): P
+Enter the value of Rho using a decimal point(.): 78
+Enter the value of Theta using a decimal point(.): 5
+
+You entered:
+Stored as cartesian only 77.70318645115616,6.7981479343173365)
+Polar [78.0,4.999999999999999]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [78.0,4.999999999999999]
+Cartesian conversion (77.70318645115616,6.798147934317336)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): P
+Enter the value of Rho using a decimal point(.): 243
+Enter the value of Theta using a decimal point(.): 745
+
+You entered:
+Stored as cartesian only 220.23279224990586,102.69623760299014)
+Polar [243.0,25.000000000000046]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [243.0,25.000000000000046]
+Cartesian conversion (220.23279224990586,102.69623760299012)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004hjava PointCPTest3[?2004l
+Cartesian-Polar Coordinates Conversion Program
+Enter the type of Coordinates you are inputting ((C)artesian / (P)olar): P
+Enter the value of Rho using a decimal point(.): 75
+Enter the value of Theta using a decimal point(.): 25
+
+You entered:
+Stored as cartesian only 67.97308402774874,31.696369630552457)
+Polar [74.99999999999999,25.000000000000007]
+
+PointCP3 stores only cartesian coordinates; 
+After asking to convert to Polar it returns PointCP2:
+Stored as polar coordinates 
+Polar [74.99999999999999,25.000000000000007]
+Cartesian conversion (67.97308402774873,31.69636963055246)
+
+[1m[7m%[27m[1m[0m                                                                                     ]7;file://Alonas-MBP.ht.home/Users/alonapetrova/Documents/uni/seg/aissignment1/pointcp[0m[27m[24m[Jalonapetrova@Alonas-MBP pointcp % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Oct  9 21:02:26 2022
